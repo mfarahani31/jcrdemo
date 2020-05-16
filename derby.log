@@ -1,0 +1,48 @@
+----------------------------------------------------------------
+Sun May 17 00:18:32 IRDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-1f07-e9e6-000004c30ae0 
+on database directory /home/mohammad/IdeaProjects/demo/jackrabbit/version/db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@49476842 
+Loaded from file:/home/mohammad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.7+10-post-Ubuntu-3ubuntu1
+user.dir=/home/mohammad/IdeaProjects/demo
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-29-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun May 17 00:18:33 IRDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 888c4022-0172-1f07-e9e6-000004c30ae0 
+on database directory /home/mohammad/IdeaProjects/demo/jackrabbit/workspaces/default/db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@49476842 
+Loaded from file:/home/mohammad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.7+10-post-Ubuntu-3ubuntu1
+user.dir=/home/mohammad/IdeaProjects/demo
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-29-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun May 17 00:18:34 IRDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6965c036-0172-1f07-e9e6-000004c30ae0 
+on database directory /home/mohammad/IdeaProjects/demo/jackrabbit/workspaces/security/db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@49476842 
+Loaded from file:/home/mohammad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.7+10-post-Ubuntu-3ubuntu1
+user.dir=/home/mohammad/IdeaProjects/demo
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-29-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun May 17 00:18:34 IRDT 2020:
+Shutting down instance 888c4022-0172-1f07-e9e6-000004c30ae0 on database directory /home/mohammad/IdeaProjects/demo/jackrabbit/workspaces/default/db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@49476842 
+----------------------------------------------------------------
+Sun May 17 00:18:34 IRDT 2020:
+Shutting down instance 6965c036-0172-1f07-e9e6-000004c30ae0 on database directory /home/mohammad/IdeaProjects/demo/jackrabbit/workspaces/security/db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@49476842 
+----------------------------------------------------------------
+Sun May 17 00:18:34 IRDT 2020:
+Shutting down instance a816c00e-0172-1f07-e9e6-000004c30ae0 on database directory /home/mohammad/IdeaProjects/demo/jackrabbit/version/db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@49476842 
